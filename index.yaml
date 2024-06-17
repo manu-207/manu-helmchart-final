@@ -5,7 +5,7 @@ entries:
       appVersion: 1.0.0
       created: "2023-08-17T04:14:04.298694+05:30"
       description: A Helm chart for Kubernetes
-      digest: ec954a7e28a24cf9384e96063131fed8b8f8a386b25422118347f8b7739a4334
+      digest: f9b83f40e1bd9f57059a5bb59afbb6c5f9a22a7d2ec30dee71e49f392353d2ab
       name: app1
       type: application
       urls:
@@ -16,7 +16,7 @@ entries:
       appVersion: 1.0.0
       created: "2023-08-17T04:14:04.298694+05:30"
       description: A Helm chart for Kubernetes
-      digest: ec954a7e28a24cf9384e96063131fed8b8f8a386b25422118347f8b7739a4334
+      digest: c84749bc7149442e7755c0231a97c403c93acfd03441eea528244a0ae1fe6ec3
       name: app2
       type: application
       urls:
