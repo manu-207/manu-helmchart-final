@@ -6,20 +6,20 @@ entries:
     created: "2023-08-17T04:14:04.298694+05:30"
     description: A Helm chart for Kubernetes
     digest: ec954a7e28a24cf9384e96063131fed8b8f8a386b25422118347f8b7739a4334
-    name: mychart3
+    name: app1
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart3-1.0.0.tgz
-    version: 1.0.0
+    - https://manu-207.github.io/manu-helmchart-final/app1-0.1.0.tgz
+    version: 0.1.0
   app2:
   - apiVersion: v2
     appVersion: 1.0.0
     created: "2023-08-17T04:14:04.298694+05:30"
     description: A Helm chart for Kubernetes
     digest: ec954a7e28a24cf9384e96063131fed8b8f8a386b25422118347f8b7739a4334
-    name: mychart3
+    name: app2
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart3-1.0.0.tgz
-    version: 1.0.0
+    - https://manu-207.github.io/manu-helmchart-final/app2-0.1.0.tgz
+    version: 0.1.0
      
