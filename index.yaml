@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-06-22T07:27:14.920445452Z"
+    description: A Helm chart for Kubernetes
+    digest: 085cbc6a92702019a7305aeca16d26cc99c0a8e342d159de2cd97731fcce89b0
+    name: app1
+    type: application
+    urls:
+    - https://github.com/manu-207/manu-helmchart-final/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-06-22T07:27:15.028108435Z"
+    description: A Helm chart for Kubernetes
+    digest: 946cb882abe9a056987887464c62eb35bae86272de446058a3d99ea41f69c47c
+    name: app2
+    type: application
+    urls:
+    - https://github.com/manu-207/manu-helmchart-final/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-22T07:27:15.028114977Z"
